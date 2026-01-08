@@ -1,4 +1,4 @@
-# austin todd
+
 This site is meant to be a home for my writing and other projects. If you're a friend, welcome. If you're a prospective employer, welcome. 
 
 **published writing**
