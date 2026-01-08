@@ -21,7 +21,7 @@ Just linking the gdrive archive for now, because I haven't figured out how to co
 
 Simple Storys, Chapter II, Ingo Schulze
 
-[The Dust in the Forest, Jin-hee Lee](https://drive.google.com/drive/folders/16EUkAeHy_O7z2BXih31mc68MUtZvrd8Y?dmr=1&ec=wgc-drive-globalnav-goto)
+[The Dust in the Forest, Jin-hee Lee]([https://drive.google.com/drive/folders/16EUkAeHy_O7z2BXih31mc68MUtZvrd8Y?dmr=1&ec=wgc-drive-globalnav-goto](https://drive.google.com/file/d/1cWhgnTb8EOiFwSvvphl4lYjLOHEYKGJ4/view?usp=drive_link)
 
 [Seven Tales of Seven Mothers, Yoko Tawada](https://docs.google.com/document/d/1O1H_a5-YJSxnCxgwyodnVD1DhFk7-jTu/edit?usp=sharing&ouid=105131792760578923735&rtpof=true&sd=true)
 
