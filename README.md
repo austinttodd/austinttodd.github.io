@@ -12,3 +12,5 @@ This site is meant to be a home for my writing and other projects. If you're a f
 **newsletters**
 
 thinking of some way to host them on here
+
+[newsletter december 2024](newsletter1)
