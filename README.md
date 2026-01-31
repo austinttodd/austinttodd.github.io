@@ -30,10 +30,9 @@ Simple Storys, Chapter II, Ingo Schulze
 **ceramics**
 
 Surrealist Ceramics Workshop, 2022
-<video width="320" height="240" controls>
-  <source src="liberatory ceramics workshop documentation (2022).mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<video width="320" height="240" controls><source src="liberatory ceramics workshop documentation (2022).mp4" type="video/mp4">Your browser does not support the video tag.</video>
+"Wearing Down," 2022
+<video width="320" height="240" controls><source src="wearing down (2022).mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 
 
