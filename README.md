@@ -29,7 +29,7 @@ Simple Storys, Chapter II, Ingo Schulze
 
 **ceramics**
 
-[Portfolio - Austin Todd, 2026](austinttodd.github.io/about/Austin Todd Portfolio.pdf)
+[Portfolio - Austin Todd, 2026](https://austinttodd.github.io/about/Austin%20Todd%20Portfolio.pdf)
 
 
 <p>Surrealist Ceramics Workshop, 2022</p>
