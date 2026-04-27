@@ -1,7 +1,8 @@
 title: austin todd
-theme: jekyll-theme-minimal
+page_headers:
+  - newsletters.md
+theme: minima
 logo: IMG_0041.jpg
 author: austin
 
-page_headers:
-  - newsletters.md
+
