@@ -1,5 +1,7 @@
-title: austin's website hell yeah
+title: austin todd
 theme: jekyll-theme-minimal
 logo: IMG_0041.jpg
 author: austin
-description: Pandora's Jar, 2024
+
+page_headers:
+  - newsletters.md
