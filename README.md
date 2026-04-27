@@ -11,7 +11,7 @@ This site is meant to be a home for my writing and other projects. If you're a f
 
 **newsletter writing**
 
-Just linking the gdrive archive for now, because I haven't figured out how to code new pages into this site.
+[Newsletters](./newsletters.md)
 
 [newsletter archive](https://drive.google.com/drive/folders/1_Rc9x8Dw0tk28cWTL1wm6n3lRP6Fzjvk?usp=drive_link)
 
