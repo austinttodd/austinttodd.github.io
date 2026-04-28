@@ -3,3 +3,24 @@
 
 @import "{{ site.theme }}";
 h1 {color:black;}
+
+a {
+  color:#f53bd6;
+  background-color:yellow;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#f53bd6;
+}
+
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#777;
+}
