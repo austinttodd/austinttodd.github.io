@@ -2,6 +2,10 @@
 layout: default
 --- 
 
+<header>
+  <a href="./newsletters.md">Newsletters</a>
+</header>
+
 **published writing**
 
 [Learning to Drink Black Coffee In Arkansas](https://larbpublab.org/2024/07/24/learning-to-drink-black-coffee-in-arkansas/) <i>LARB</i> PubLab, 2024
