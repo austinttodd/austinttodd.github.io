@@ -18,14 +18,14 @@
         <h1>{{site.title}}</h1>
 
         {% if site.logo %}
+          <!-- Maybe look into how to make image a clickable link here -->
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <a href="./writing.html">Writing</a>
-
-        <a href="./ceramics.html">Ceramics</a>
-
-        <a href="./contact.html">Contact</a>
+        <!-- Sidebar navigation -->
+        <p><a href="./writing.html">Writing</a></p>
+        <p><a href="./ceramics.html">Ceramics</a></p>
+        <p></p><a href="./contact.html">Contact</a></p>
         
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
