@@ -20,7 +20,7 @@ pottery i made during the fall semester and raised just over $1700 for mutual ai
 family in Gaza. Also, i finally got around to making fish head soup with the salmon i’d frozen from
 this summer. It was TASTY. Here’s a photo:
 
-[Salmon head soup](assets/newsletter1/img1.png)
+![Salmon head soup](assets/newsletter1/img1.png)
 
 Arkansas is quiet. I worked remotely for the first week and a half i was here, but now i’m done, the
 only thing left is to onboard my replacement in January. I've been reading and trying to finish
@@ -103,7 +103,7 @@ Syrian films—Anchorage for Palestine is wanting to screen some in January
 - Jane Remover and Olivia Dean’s shows on NTS
 - [These](https://www.poetryfoundation.org/poetrymagazine/browse?volume=161&issue=1&page=28) poems by Rita Dove (thank you Anya for sharing):
 
-[poems](assets/newsletter1/img2.png)
+![poems](assets/newsletter1/img2.png)
 
   - Noticed more this time around in “Sonnet” how the consolations the speaker is
 offered are not gestural (like a hug) or words, but commodities: “silk / to make skin
@@ -113,6 +113,7 @@ speaker imagines laughing in the future at “a bird, perhaps, chucking the nest
 commodity and comfort will bring neither happiness nor consolation.
 
 **ONYX COFFEE REPORT**
+
 My thoughts this month about Onyx were spurred by an article about digital surveillance by
 Zoë Hitzig. This quote in particular:
 
@@ -145,5 +146,6 @@ obsessed with these days? What troubles you? What consoles you?
 <3
 austin
 
-[The way to Bethlehem Sliman Mansour](assets/newsletter1/img3.png)
+![The way to Bethlehem Sliman Mansour](assets/newsletter1/img3.png)
+
 Sliman Mansour, “The way to Bethlehem” 
