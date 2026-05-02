@@ -4,8 +4,6 @@ layout: default
 nav_order: 1
 ---
 
-<object data="../austin updates 1 (dec 24).pdf" width="400" height="400" type='application/pdf'></object>
+<a href="./newsletters/newsletter1.html">Newsletter 1, Dec '24<a/>
 
-<object data="../austin updates 2 (jan 25).pdf" width="400" height="400" type='application/pdf'></object>
-
-[back](./index.md)
+[home](./index.md)
