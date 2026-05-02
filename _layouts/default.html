@@ -15,11 +15,11 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>{{site.title}}</h1>
+        <a href="./index.md"><h1>{{site.title}}</h1></a>
 
         {% if site.logo %}
           <!-- Maybe look into how to make image a clickable link here -->
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <a href="./index.md"><img src="{{site.logo | relative_url}}" alt="Logo"></a>
         {% endif %}
 
         <!-- Sidebar navigation -->
