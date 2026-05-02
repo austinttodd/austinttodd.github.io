@@ -12,7 +12,7 @@ layout: default
 
 **newsletters**
 
-<a href="./newsletters.md">Newsletters</a>
+<a href="./newsletters.html">Newsletters</a>
 
 
 
