@@ -8,22 +8,14 @@ layout: default
 
 [The Troubles of Finding Each Other in Late American Life](https://www.brinkatyale.com/issue-ten-1/the-troubles-of-finding-each-other-in-late-american-life) <i>Brink!</i>, Issue 10, 2023
 
+[Hold On Tightly, Let Go Lightly](https://thenewjournalatyale.com/2022/09/hold-on-tightly-let-go-lightly/) <i>The New Journal</i>, Vol. 55, No. 1
 
 
 **newsletters**
 
+<mark>the newsletter page is under construction</mark>
+
 <a href="./newsletters.html">Newsletters</a>
-
-
-
-**translations**
-
-Simple Storys, Chapter II, Ingo Schulze
-
-[The Dust in the Forest, Jin-hee Lee](https://drive.google.com/file/d/1cWhgnTb8EOiFwSvvphl4lYjLOHEYKGJ4/view?usp=drive_link)
-
-[Seven Tales of Seven Mothers, Yoko Tawada](https://docs.google.com/document/d/1O1H_a5-YJSxnCxgwyodnVD1DhFk7-jTu/edit?usp=sharing&ouid=105131792760578923735&rtpof=true&sd=true)
-
 
 
 **unpublished writing**
