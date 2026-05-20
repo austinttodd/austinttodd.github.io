@@ -8,7 +8,7 @@ layout: default
 
 [The Troubles of Finding Each Other in Late American Life](https://www.brinkatyale.com/issue-ten-1/the-troubles-of-finding-each-other-in-late-american-life) <i>Brink!</i>, Issue 10, 2023
 
-[Hold On Tightly, Let Go Lightly](https://thenewjournalatyale.com/2022/09/hold-on-tightly-let-go-lightly/) <i>The New Journal</i>, Vol. 55, No. 1
+[Hold On Tightly, Let Go Lightly](https://thenewjournalatyale.com/2022/09/hold-on-tightly-let-go-lightly/) <i>The New Journal</i>, Vol. 55, No. 1, 2022
 
 
 **newsletters**
