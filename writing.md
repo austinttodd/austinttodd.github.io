@@ -18,7 +18,7 @@ layout: default
 <a href="./newsletters.html">Newsletters</a>
 
 
-**unpublished writing**
+**other**
 
 [Keegan Does in 128 Pages What Yarros Could Not Do in 500](https://substack.com/home/post/p-145715409)
 
